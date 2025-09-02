@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "railway-reservation-system": {
+      "command": "python",
+      "args": ["mcp-server.py"],
+      "cwd": "t:\\code\\mcp\\railway-reservation-system"
+    }
+  }
+}
